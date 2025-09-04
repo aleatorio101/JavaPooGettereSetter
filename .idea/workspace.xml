@@ -49,10 +49,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="src" />
@@ -69,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
