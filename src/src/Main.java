@@ -7,5 +7,12 @@ public class Main {
         p1.setIdade(-5);
         System.out.println("Nome: " + p1.getNome() + ", Idade: " + p1.getIdade());
 
+        System.out.println("\n=== Exercício 3: ContaBancaria ===");
+        ContaBancaria conta = new ContaBancaria("Maria", "12345");
+        conta.depositar(500);
+        conta.sacar(200);
+        conta.sacar(1000);
+        System.out.println("Saldo final: " + conta.getSaldo());
+
     }
 }
